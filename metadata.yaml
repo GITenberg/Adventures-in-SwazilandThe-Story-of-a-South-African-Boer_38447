@@ -1,0 +1,28 @@
+_repo: Adventures-in-SwazilandThe-Story-of-a-South-African-Boer_38447
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38447-h/images/cover.jpg
+creator:
+  author:
+    agent_name: O'Neil, Owen Rowe
+    gutenberg_agent_id: '39474'
+    url: http://www.gutenberg.org/2009/agents/39474
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2011-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38447'
+  lccn: '21018606'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'O''Neil, Owen Rowe'
+- !lcc 'DT'
+- !lcsh 'Afrikaners -- Biography'
+- !lcsh 'Swaziland -- Description and travel'
+title: 'Adventures in Swaziland: The Story of a South African Boer'
+url: http://www.gutenberg.org/ebooks/38447
